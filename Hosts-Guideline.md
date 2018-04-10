@@ -33,4 +33,4 @@ meetups and if the location is not defined, you may put your interest in comment
 
 ## 
 
-Thanks again for your interest in hosting the Alchemist Bears. BTW since your here take a moment to check our [Code of Conduct](Code-of-Conduct.md)
+Thanks again for your interest in hosting the Alchemist Bears. BTW since your are here take a moment to check out our [Code of Conduct](Code-of-Conduct.md)
