@@ -10,7 +10,7 @@ Elixir community in Berlin
 
 ## When is it happening?
 
-Every 2nd Thursday of month usually between 7-10 pm
+Every 2nd Thursday of month, usually between 7-10 pm.
 
 ## What is required to be a host?
 
