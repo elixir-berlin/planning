@@ -14,8 +14,6 @@ Every 2nd Thursday of month usually between 7-10 pm
 
 ## What is required to be a host?
 
-
-
 * :office: Certainly a place that can accommodate 30-50 poeple
 * :tv: Projector or TV
 * 📶 Wi-Fi
