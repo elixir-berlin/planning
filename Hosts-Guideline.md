@@ -28,7 +28,7 @@ Every 2nd Thursday of month, usually between 7-10 pm.
 
 ## Looks good?
 
-Great! head to [issue](https://github.com/elixir-berlin/planning/issues) section, we usually try to plan ahead our next 3 month
+Great! head to [issue](https://github.com/elixir-berlin/planning/issues) section, we usually try to plan ahead our next 3 months
 meetups and if the location is not defined, you may put your interest in comment section.
 
 ## 
