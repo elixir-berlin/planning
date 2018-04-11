@@ -5,7 +5,7 @@ Here we've collected information that you might be interested in before requesti
 
 ## What you get
 
-You get a change of meeting a lot of Elixir lovers in your place :) and an opportunity to introduce your compnay to the
+You get a change of meeting a lot of Elixir lovers in your place :) and an opportunity to introduce your company to the
 Elixir community in Berlin
 
 ## When is it happening?
@@ -24,7 +24,7 @@ Every 2nd Thursday of month, usually between 7-10 pm.
 
 * :beers: Drinks alcoholic and/or non-alcoholic
 * :pizza: food 
-* :briefcase: Swag bag for speakers(if you are not sure, contact us and you can sponser giveaway Elixir Berlin swag with your compnay name on it!)
+* :briefcase: Swag bag for speakers(if you are not sure, contact us and you can sponser giveaway Elixir Berlin swag with your company name on it!)
 
 ## Looks good?
 
