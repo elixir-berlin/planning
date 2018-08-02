@@ -5,7 +5,7 @@ Here we've collected information that you might be interested in before requesti
 
 ## What you get
 
-You get a change of meeting a lot of Elixir lovers in your place :) and an opportunity to introduce your company to the
+You get a chance of meeting a lot of Elixir lovers in your place :) and an opportunity to introduce your company to the
 Elixir community in Berlin
 
 ## When is it happening?
