@@ -1,4 +1,4 @@
-# #69 April Talk and socialize
+# #70 April Talk and socialize
 
 ## Date
 **Thursday, Apr. 9th, 2020 19:00 @ Online**
@@ -12,7 +12,7 @@
 ## Attending the event
 
 ### Broadcasting
-You may just watch the youtbue stream at [TBA] at 19:00
+You may just watch the youtbue stream at [https://youtu.be/19XPpsKLG_E](https://youtu.be/19XPpsKLG_E) at [19:00 CEST](https://everytimezone.com/s/8e30b248)
 
 ### Q&A and socializing
 
@@ -28,6 +28,8 @@ After joining the Discord server, you'll see the following voice channels:
 We are also 
 
 Instructions:
+
+0. (Optional) Install [Desktop/Mobile Discord](https://discordapp.com/download). It's much more reliable compare to the web version.
 1. Visit [https://discord.gg/WaKTXHD](https://discord.gg/WaKTXHD)
 2. Loging if you have an account in Discord, otherwise create an account(needs username, email and password)
 3. You should be in the Elixir Berlin server and see the voice channels on the right side
