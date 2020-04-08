@@ -6,7 +6,6 @@
 ## Talks
 
 * "Design for scale and low maintenance" by [@gheorghina](https://github.com/gheorghina)
-* "Visual Concurrency Cookbook" [@danielvamosi](https://github.com/danielvamosi)
 
 
 ## Attending the event
