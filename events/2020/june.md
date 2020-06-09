@@ -6,7 +6,7 @@
 ## Talks
 
 * "I used mix built-in releases and you won't believe what happened next" by [@ggpasqualino](https://github.com/ggpasqualino)
-* "TBA" by Ralph
+* "APA : Arbitrary Precision Arithmetic - pure Elixir implementation" by [@razuf](https://github.com/razuf)
 
 
 ## Attending the event
