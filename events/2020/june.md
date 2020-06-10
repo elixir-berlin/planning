@@ -1,7 +1,7 @@
 # #72 June Talk and socialize
 
 ## Date
-**Thursday, Apr. 11th, 2020 19:00 @ Online**
+**Thursday, June 11th, 2020 19:00 @ Online**
 
 ## Talks
 
