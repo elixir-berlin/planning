@@ -12,7 +12,7 @@
 ## Attending the event
 
 ### Broadcasting
-You may just watch the youtube stream at [TBA](TBA) at [19:00 CEST](https://everytimezone.com/s/8e30b248)
+You may just watch the youtube stream at [youtube](https://youtu.be/gBMfjq_gXuw) at [19:00 CEST](https://everytimezone.com/s/8e30b248)
 
 ### Q&A and socializing
 
