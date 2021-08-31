@@ -1,0 +1,24 @@
+name: News event preparation
+description: Create a request for new event
+title: "#XX %w{Jan Feb Mar Apr Jun Jul Aug Sep Nov Dec} Talk and socialize"
+labels: [Talk]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        /* Exact event url can be found https://www.meetup.com/Elixir-Berlin/events/
+        Event URL: <TODO: https://www.meetup.com/Elixir-Berlin/events/gdsglryccnbsb/>
+
+        Time: <TODO: eg. 14th October 7pm CEST>
+  - type: checkboxes
+    id: todo
+    attributes:
+      label: Dodo
+      description: Thinks that need to be done before the event
+      options:
+        - label: "Location: Remote/Hosting comapny"
+        - label: |
+            Talks:
+              * <talk name to be added>
+              * <talk name to be added>
