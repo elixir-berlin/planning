@@ -7,22 +7,23 @@ body:
   - type: textarea
     id: link
     attributes:
-      placeholder: Exact event url can be found https://www.meetup.com/Elixir-Berlin/events/
-      value: |
-        Event URL: <TODO: https://www.meetup.com/Elixir-Berlin/events/gdsglryccnbsb/>
+      label: Event URL
+      placeholder: "Exact event url can be found https://www.meetup.com/Elixir-Berlin/events/"
+      value: "<TODO: https://www.meetup.com/Elixir-Berlin/events/gdsglryccnbsb/>"
 
   - type: textarea
     id: time
     attributes:
+      label: Time
       placeholder: Date and time of the planned event
-      value: |
-        Time: <TODO: eg. 14th October 7pm CEST>
+      value: "<TODO: eg. 14th October 7pm CEST>"
 
   - type: textarea
     id: location
     attributes:
+      label: Location
       value: |
-        - [ ] "Location: Remote/Hosting comapny"
+        - [ ] Remote/Hosting comapny
 
   - type: textarea
     id: talks
