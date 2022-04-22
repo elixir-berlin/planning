@@ -23,7 +23,7 @@ body:
     attributes:
       label: Location
       value: |
-        - [ ] Remote/Hosting comapny
+        - [ ] Remote/Hosting company
 
   - type: textarea
     id: talks
