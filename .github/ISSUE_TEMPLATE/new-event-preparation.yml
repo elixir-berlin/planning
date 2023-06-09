@@ -1,4 +1,4 @@
-name: News event preparation
+name: New event preparation
 description: Create a request for new event
 title: "##{%w{Jan Feb Mar Apr Jun Jul Aug Sep Nov Dec}} #{n}th Talk and socialize"
 labels: [Talk]
