@@ -4,44 +4,50 @@ title: "Talk Proposal #{your title here}"
 labels: [Talk]
 body:
   - type: input
-    id: name
     attributes:
       label: Your name
       placeholder: "José Valim"
 
   - type: input
-    id: github
     attributes:
       label: Your GitHub
       placeholder: "https://github.com/josevalim"
       
   - type: input
-    id: twitter
     attributes:
       label: Your Twitter (or other social link)
       placeholder: "https://twitter.com/josevalim"
 
   - type: input
-    id: type
     attributes:
       label: "Your proposal type: talk, lightning talk or til (today I learned)"
       placeholder: "talk"
 
   - type: input
-    id: title
     attributes:
       label: "Title of your presentation"
       placeholder: "Why Elixir is so amazing"
       
   - type: textarea
-    id: description
     attributes:
       label: Description
       placeholder: "In this talk I want to cover all the areas we love most about Elixir"
 
-  - type: textarea
-    id: month
+  - type: dropdown
     attributes:
-      label: Favourite Month you would like to present
-      placeholder: "January"
+      label: Favourite Month you would like to present in
+      options: 
+        - "Any/Next"
+        - "January"
+        - "February"
+        - "March"
+        - "April"
+        - "May"
+        - "June"
+        - "July"
+        - "August"
+        - "September"
+        - "October"
+        - "November"
+        - "December"
 
