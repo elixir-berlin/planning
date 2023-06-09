@@ -1,0 +1,29 @@
+name: Talk Proposal
+description: Suggestion for a talk
+title: "Talk Proposal #{your title here}"
+labels: [Talk]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Your name
+      placeholder: "Jose Valim"
+
+  - type: input
+    id: type
+    attributes:
+      label: "Your proposal type: talk, lightning talk or til (today I learned)"
+      placeholder: "talk"
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      placeholder: "Why Elixir is so amazing!\n\nIn this talk I want to cover all the areas we love most about Elixir"
+
+  - type: textarea
+    id: month
+    attributes:
+      label: Favourite Month you would like to present
+      placeholder: "January"
+
