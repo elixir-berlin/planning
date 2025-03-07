@@ -15,8 +15,8 @@ body:
       
   - type: input
     attributes:
-      label: Your Twitter (or other social link)
-      placeholder: "https://twitter.com/josevalim"
+      label: Your Social Link
+      placeholder: "https://bsky.app/profile/josevalim.bsky.social"
 
   - type: input
     attributes:
